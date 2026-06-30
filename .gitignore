@@ -1,0 +1,7 @@
+__pycache__/ 
+*.pyc 
+train_data/ 
+val_data/ 
+"smallcnn_drowsiness(1).pth" 
+"smallcnn_drowsiness(2).pth" 
+"smallcnn_drowsiness(3).pth" 
